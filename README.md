@@ -9,7 +9,7 @@ You can view a demonstration video of my code here: [Software Demo Video](http:/
 # Development Environment
 
 * Python 3.10.4
-* Virtual Studio Code
+* Visual Studio Code
 * Git / GitHub
 
 # Useful Websites
